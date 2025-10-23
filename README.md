@@ -1,5 +1,7 @@
 # 🖱️ Tablet Control for PC
 
+***TYPING AND COPY PASTE!!!**
+
 **Control your Android tablet from your PC with just Alt+Tab!**
 
 A simple, one-click solution to use your PC's keyboard and mouse to control your Android tablet. No complicated setup, no virtual machines - just plug in and go.
